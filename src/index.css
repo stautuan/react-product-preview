@@ -134,7 +134,7 @@ body {
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 649px) {
   .product-card {
     grid-template-columns: 1fr;
     max-width: 34.3rem;
