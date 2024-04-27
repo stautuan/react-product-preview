@@ -5,12 +5,12 @@ function MainContent() {
         <div className="product-img">
           <picture>
             <source
-              srcSet="../src/assets/images/image-product-desktop.jpg"
+              srcSet="assets/images/image-product-desktop.jpg"
               media="(min-width: 650px)"
             />
             <img
               className="img"
-              src="../src/assets/images/image-product-mobile.jpg"
+              src="assets/images/image-product-mobile.jpg"
               alt="A bottle of Chanel perfume"
             />
           </picture>
@@ -28,7 +28,7 @@ function MainContent() {
           </div>
           <button className="btn">
             <img
-              src="../src/assets/images/icon-cart.svg"
+              src="assets/images/icon-cart.svg"
               alt="icon cart"
               aria-hidden="true"
             />

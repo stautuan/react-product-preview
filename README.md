@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](./src/assets/screenshots/my-solution.png)
-![mobile](./src/assets/screenshots/my-solution-m.png)
+![desktop](./public/assets/screenshots/my-solution.png)
+![mobile](./public/assets/screenshots/my-solution-m.png)
 
 ### Links
 
